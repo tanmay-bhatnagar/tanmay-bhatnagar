@@ -19,9 +19,9 @@ I build data products and machine-learning systems that turn complex problems in
 
 ## Selected impact
 
-- Helped launch cross-platform audience matching for CNN and HBO Max, contributing to up to **~$2M in incremental ad revenue**.
-- Built a unified feature store with **2,000+ features** and **500B+ rows** to support analytics and machine learning at scale.
-- Developed root-cause analytics and an agentic reporting layer to turn platform metrics into stakeholder-ready insights.
+- Unlocked approximately **$2M in incremental ad revenue** by launching cross-platform audience matching for CNN and HBO Max in 90 days, improving ad targeting.
+- Supported **revenue gains and better customer retention** by deploying real-time churn and cheating-detection models at Gamezop.
+- Supported **20+ client engagements within six months** by developing and leading a business-intelligence product that benchmarked organization structures across industries.
 
 ## Tools I use
 
@@ -29,4 +29,4 @@ I build data products and machine-learning systems that turn complex problems in
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/tanmay-bhatnagar/) · [WBD Open Source](https://github.com/wbd-open-source) · [HBO Max](https://github.com/hbomax)
+[X](https://x.com/imnottanmay) · [LinkedIn](https://www.linkedin.com/in/tanmay-bhatnagar/)
