@@ -29,4 +29,4 @@ I build data products and machine-learning systems that turn complex problems in
 
 ## Connect
 
-[X](https://x.com/imnottanmay) · [LinkedIn](https://www.linkedin.com/in/tanmay-bhatnagar/)
+[Email](mailto:tanmaybhatnagar84976@gmail.com) · [X](https://x.com/imnottanmay) · [LinkedIn](https://www.linkedin.com/in/tanmay-bhatnagar/)
